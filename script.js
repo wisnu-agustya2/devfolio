@@ -17,6 +17,24 @@ const projects = [
     url: "https://github.com/wisnu-agustya2/expense-tracker",
   },
   {
+    name: "task-api",
+    desc: "REST API task dengan autentikasi JWT dan SQLite.",
+    tags: "Node.js · SQLite · JWT",
+    url: "https://github.com/wisnu-agustya2/task-api",
+  },
+  {
+    name: "price-scraper",
+    desc: "Scraper harga produk dengan riwayat dan laporan CSV.",
+    tags: "Python · SQLite",
+    url: "https://github.com/wisnu-agustya2/price-scraper",
+  },
+  {
+    name: "dev-toolkit",
+    desc: "CLI utilitas developer: JSON, hash, UUID, password.",
+    tags: "Node.js · CLI",
+    url: "https://github.com/wisnu-agustya2/dev-toolkit",
+  },
+  {
     name: "devfolio",
     desc: "Website portofolio ini, responsif dengan dark mode.",
     tags: "HTML · CSS · JavaScript",
