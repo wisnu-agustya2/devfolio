@@ -1,9 +1,15 @@
 const skills = [
-  "PHP", "Laravel", "Yii2", "Yii1", "CodeIgniter", "JavaScript", "Vue.js",
+  "Python", "Django", "PHP", "Laravel", "Yii2", "Yii1", "CodeIgniter", "JavaScript", "Vue.js",
   "HTML", "CSS", "Flutter", "Python", "MySQL", "Git",
 ];
 
 const projects = [
+  {
+    name: "cbt-app",
+    desc: "Aplikasi ujian CBT sekolah: bank soal, ujian bertoken, autosave, dan penilaian otomatis.",
+    tags: "Django REST · Vue 3 · Flutter",
+    url: "https://github.com/wisnu-agustya2/cbt-app",
+  },
   {
     name: "company-cms",
     desc: "Website company profile dengan panel admin: blog, layanan, pesan, dan pengaturan.",
