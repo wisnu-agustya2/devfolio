@@ -5,6 +5,30 @@ const skills = [
 
 const projects = [
   {
+    name: "company-cms",
+    desc: "Website company profile dengan panel admin: blog, layanan, pesan, dan pengaturan.",
+    tags: "Laravel 13 · Blade · SQLite",
+    url: "https://github.com/wisnu-agustya2/company-cms",
+  },
+  {
+    name: "hr-attendance",
+    desc: "Absensi karyawan, pengajuan cuti, dan rekap bulanan dengan export CSV.",
+    tags: "CodeIgniter 4 · PHPUnit",
+    url: "https://github.com/wisnu-agustya2/hr-attendance",
+  },
+  {
+    name: "inventory-api",
+    desc: "REST API inventori dengan stok masuk/keluar atomik dan dokumentasi OpenAPI.",
+    tags: "Yii2 · REST · OpenAPI",
+    url: "https://github.com/wisnu-agustya2/inventory-api",
+  },
+  {
+    name: "pos-mobile",
+    desc: "Aplikasi kasir offline dengan keranjang, struk, dan laporan penjualan.",
+    tags: "Flutter · SQLite",
+    url: "https://github.com/wisnu-agustya2/pos-mobile",
+  },
+  {
     name: "weather-now",
     desc: "Dashboard cuaca real-time dengan pencarian kota.",
     tags: "Vue 3 · Open-Meteo API",
